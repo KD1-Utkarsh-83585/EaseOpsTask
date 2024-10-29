@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Flask configuration files
+instance/
+config.py
+
+# Static files (if generated dynamically)
+static/*
+
+# Ignore environment files
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS and Windows files
+.DS_Store
+Thumbs.db

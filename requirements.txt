@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+flask-swagger-ui
+pymysql  # MySQL connector
+
